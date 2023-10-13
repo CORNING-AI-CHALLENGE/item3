@@ -27,6 +27,8 @@ The primary object of this project is applying PINN or DeepONet to solve PDEs in
 
 📖 참고 내용  
 
-✔️ 전통적인 방식의 수치해석 코드는 제공 가능 (문제 선정 전에 문의 필요,  📧moonj5(@)corning.com)
+✔️ DeepOnet <br/> [https://github.com/lululxvi/deeponet] <br/> [https://docs.nvidia.com/deeplearning/modulus/modulus-v2209/user_guide/neural_operators/deeponet.html] <br/> [https://lululxvi.github.io/files/talks/2020SIAMMDS_MS1.pdf]
 
-✔️ 간단한 ODE에 대한 base code
+✔️ 전통적인 방식의 수치해석 코드는 제공 가능 (사전 문의 필요,  📧moonj5(@)corning.com)
+
+✔️ PINN  <br/> [https://deepxde.readthedocs.io/en/latest/] <br/> [https://pasus.tistory.com/162]
